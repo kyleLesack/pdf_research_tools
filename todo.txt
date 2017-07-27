@@ -1,0 +1,4 @@
+* Move processed files to renamed, or untouched folders depending on if doi found
+* Add doi cleaning functionality. See pyRenamerPdf
+* DL bibtex for dois
+* Clean up code, use modules/functions
